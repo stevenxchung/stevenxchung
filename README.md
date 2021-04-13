@@ -1,9 +1,11 @@
-### Hi there, I'm Steven 👋. You may have stumbled across my profile after finding my OMSCS course notes or from LinkedIn.
+### Hi there, I'm Steven 👋.
 
 <br />
 <br />
 
 Author of [Goal-oriented Planning with Technology](https://www.udemy.com/course/goal-oriented-framework/) which provides a novel and more modern goal-oriented framework that leverages continuous learning and modern technology tools to help audiences of all ages create and achieve their goals.
+
+You may have stumbled across my profile after finding my MOOC course notes or from LinkedIn.
 
 - 🔭 I’m currently working on finishing up my MSCS program at [Georiga Tech](https://omscs.gatech.edu/) with focus on AI and Machine Learning (see [Google AI](https://ai.google/) to learn more about what AI can do)
 - 🌱 I’m currently learning about how machines learn
