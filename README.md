@@ -1,9 +1,8 @@
-### Hi there, I'm Steven 👋. You may have stumbled across my profile after finding my OMSCS course notes or from LinkedIn.
-
-<br />
-<br />
+### Hi there, I'm Steven 👋.
 
 Author of [Goal-oriented Planning with Technology](https://www.udemy.com/course/goal-oriented-framework/) which provides a novel and more modern goal-oriented framework that leverages continuous learning and modern technology tools to help audiences of all ages create and achieve their goals.
+
+You may have stumbled across my profile after finding my MOOC course notes or from LinkedIn.
 
 - 🔭 I’m currently working on finishing up my MSCS program at [Georiga Tech](https://omscs.gatech.edu/) with focus on AI and Machine Learning (see [Google AI](https://ai.google/) to learn more about what AI can do)
 - 🌱 I’m currently learning about how machines learn
@@ -28,7 +27,3 @@ Author of [Goal-oriented Planning with Technology](https://www.udemy.com/course/
 <a href="https://github.com/stevenxchung/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=stevenxchung&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Steven's github stats" />
 </a>
-<a href="https://github.com/stevenxchung/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenxchung&layout=compact&theme=material-palenight" />
-</a>
-
