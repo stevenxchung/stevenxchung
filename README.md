@@ -5,7 +5,7 @@ Author of [Goal-oriented Planning with Technology](https://www.udemy.com/course/
 You may have stumbled across my profile after finding my MOOC course notes or from LinkedIn.
 
 - 🔭 I’m currently working on finishing up my MSCS program at [Georiga Tech](https://omscs.gatech.edu/) with focus on AI and Machine Learning (see [Google AI](https://ai.google/) to learn more about what AI can do)
-- 🌱 I’m currently learning about how machines learn
+- 🌱 I’m currently learning about how machines learn ([hint: they actually don't!](http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf))
 - 👯 I may be looking to collaborate on more open source AI projects in the future
 - 💬 If you have any questions feel free to shoot me a message [via LinkedIn](https://www.linkedin.com/in/stevenxchung/)
 
