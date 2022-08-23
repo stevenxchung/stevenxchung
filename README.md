@@ -1,6 +1,6 @@
 ### Hi there, I'm Steven 👋.
 
-Author of [Goal-oriented Planning with Technology](https://www.udemy.com/course/goal-oriented-framework/) which provides a novel and more modern goal-oriented framework that leverages continuous learning and modern technology tools to help audiences of all ages create and achieve their goals (currently ~1200+ students enrolled as of writing).
+Author of [Goal-oriented Planning with Technology](https://www.udemy.com/course/goal-oriented-framework/) which provides a novel and more modern goal-oriented framework that leverages continuous learning and modern technology tools to help audiences of all ages create and achieve their goals (currently ~1500+ students enrolled as of writing).
 
 You may have stumbled across my profile from LinkedIn or after finding my MOOC course notes.
 
