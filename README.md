@@ -6,7 +6,7 @@ You may have stumbled across my profile from LinkedIn or after finding my MOOC c
 
 - 🔭 I just finished the MSCS program at [Georiga Tech](https://omscs.gatech.edu/) with focus on [AI](https://www.britannica.com/technology/artificial-intelligence) and [Machine Learning](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/), which allows developers to code once and deploy to multiple platforms
-- 👯 I may be looking to collaborate on more AI projects in the future, particularly in the [FinTech](https://www.investopedia.com/terms/f/fintech.asp) space
+- 👯 I may be looking to collaborate on more AI or Blockchain projects in the future, particularly in the [FinTech](https://www.investopedia.com/terms/f/fintech.asp) space
 - 💬 If you have any questions feel free to shoot me a message [via LinkedIn](https://www.linkedin.com/in/stevenxchung/)
 
 **Languages and Tools:**
