@@ -6,7 +6,7 @@ You may have stumbled across my profile from LinkedIn or after finding my MOOC c
 
 - 🔭 I recently finished the MSCS program at [Georiga Tech](https://omscs.gatech.edu/) with focus on [AI](https://www.britannica.com/technology/artificial-intelligence) and [Machine Learning](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
 - 🌱 I’m currently learning [T3 stack](https://create.t3.gg/) and starting some migrations for some of my legacy JS projects
-- 👯 I may be looking to collaborate on more AI and distributed systems projects in the future, particularly in the [FinTech](https://www.investopedia.com/terms/f/fintech.asp) space; HMU if you need a super scrappy SWE 😎
+- 👯 I may be looking to collaborate on more AI and distributed systems projects in the future, particularly in the [FinTech](https://www.investopedia.com/terms/f/fintech.asp) space; DM if you need a super scrappy SWE 😎
 - 💬 If you have any questions feel free to shoot me a message [via LinkedIn](https://www.linkedin.com/in/stevenxchung/)
 
 **Languages and Tools:**
