@@ -2,7 +2,7 @@
 
 Author of [Goal-oriented Planning with Technology](https://www.udemy.com/course/goal-oriented-framework/) which provides a novel and more modern goal-oriented framework that leverages continuous learning and modern technology tools to help audiences of all ages create and achieve their goals (currently ~1600+ students enrolled as of writing).
 
-You may have stumbled across my profile from LinkedIn or after finding my MOOC course notes. Please note that many of my more extensive projects are **private** and may be viewable only by appointment.
+You may have stumbled across my profile from LinkedIn or after finding my MOOC course notes. Please note that many of my more extensive projects (e.g., digital wallet app, payments as a service, Web3 blockchain streaming service, etc.) are **private** and may be viewable only by appointment.
 
 - 🔭 I recently finished the MSCS program at [Georiga Tech](https://omscs.gatech.edu/) with focus on [AI](https://www.britannica.com/technology/artificial-intelligence) and [Machine Learning](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)
 - 🌱 I’m currently learning [T3 stack](https://create.t3.gg/) and starting some migrations for some of my legacy JS projects
