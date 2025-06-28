@@ -10,7 +10,7 @@ You might’ve found me through [LinkedIn](https://www.linkedin.com/in/stevenxch
 
 ### ⚒ What I’m Currently Using / Working On
 
-- 🧠 Developing **free 👀, local AI tools 🤖** with [**DeepLearner**](https://github.com/stevenxchung/DeepLearner) to help users analyze and understand specific types of media  
+- 🧠 Developing **FREE local AI tools 🤖** ([**DeepLearner**](https://github.com/stevenxchung/DeepLearner) 👀) to help users dive deep into specific media and content
 - 🌱 Using next-gen runtimes like [**Bun**](https://bun.sh/) and [**uv**](https://docs.astral.sh/uv/), while building [**serverless templates**](https://github.com/stevenxchung/serverless-samples) for educational use  
 - ✌ Open to collaboration on AI, distributed systems, and [**FinTech**](https://www.investopedia.com/terms/f/fintech.asp) projects  
 - 😎 DM if you need a super scrappy, high-velocity SWE!  
