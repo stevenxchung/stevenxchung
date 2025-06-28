@@ -8,7 +8,7 @@ You might’ve found me through [LinkedIn](https://www.linkedin.com/in/stevenxch
 
 ---
 
-### 🚧 What I’m Currently Using / Working On
+### ⚒ What I’m Currently Using / Working On
 
 - 🧠 Developing **free 👀, local AI tools 🤖** with [**DeepLearner**](https://github.com/stevenxchung/DeepLearner) to help users analyze and understand specific types of media  
 - 🌱 Using next-gen runtimes like [**Bun**](https://bun.sh/) and [**uv**](https://docs.astral.sh/uv/), while building [**serverless templates**](https://github.com/stevenxchung/serverless-samples) for educational use  
